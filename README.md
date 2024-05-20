@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CV - Mufti Hashfi Naufal</title>
+    <title>CV - lingkar chaya</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
@@ -19,7 +19,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top shadow-sm bg-white">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <b>@_muftinaufal</b>
+                <b>@lingkarchaya</b>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -62,10 +62,10 @@
                 <div class="col-md-9 mt-md-5">
                     <div class="ms-md-4 pt-md-5">
                         <div class=" text-md-start text-center">
-                            <h1><b>Mufti Hashfi Naufal </b>
+                            <h1><b>Lingkar</b> Chaya C Hima</h1>
                             <h5 class="text-secondary">
-                                <b>Informatics Engineering</b> 
-                                <a href="spesolution.com" class="text-decoration-none text-primary-emphasis" target="_blank">
+                                <b>UI/UX Designer</b>
+                                <a href="spesolution.com" class="text-decoration-none text-primary-emphasis" target="_blank"></a>
                             </h5>
                         </div>
                     </div>
@@ -86,13 +86,13 @@
                                 <div class="card-body">
                                     <span class="badge bg-primary">2023 - Sekarang</span>
                                     <h5 class="mt-2 mb-0">Politeknik Negeri Banyuwangi</h5>
-                                    <p class="text-body-tertiary mb-0">Teknologi Rekayasa Perangkat Lunak 
+                                    <p class="text-body-tertiary mb-0">Teknik Informatika</p>
 
                                     <div class="mt-2">
                                         <p class="mb-1">Mata Kuliah yang saya ikuti : </p>
-                                        <span class="badge text-bg-light">Pemrograman Web Dasar</span>
-                                        <span class="badge text-bg-light">Pemrograman Berorientasi Objek</span>
                                         <span class="badge text-bg-light">Basis Data</span>
+                                        <span class="badge text-bg-light">Pemrograman Web Dasar</span>
+                                        <span class="badge text-bg-light">Struktur Data</span>
                                     </div>
                                 </div>
                             </div>
@@ -100,15 +100,16 @@
                         <div class="col-md-12 mb-3">
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
-                                    <span class="badge bg-secondary">2020 - 2023</span>
-                                    <h5 class="mt-2 mb-0">MAU Mamba'ul Huda</h5>
-                                    <p class="text-body-tertiary mb-0">Islamic Studies
+                                    <span class="badge bg-primary">2019 - 2022</span>
+                                    <h5 class="mt-2 mb-0">Smak Muhammadiyah 1 Genteng</h5>
+                                    <p class="text-body-tertiary mb-0">Multimedia</p>
                                     <div class="mt-2">
-                                        <p class="mb-1">Mata Kuliah yang saya ikuti : </p>
-                                        <span class="badge text-bg-light">Tafsir Al-Qur'an</span>
-                                        <span class="badge text-bg-light">Hadist</span>
-                                        <span class="badge text-bg-light">Designer</span>
-                                        
+                                        <p class="mb-1">Mata Pelajaran yang saya ikuti : </p>
+                                        <span class="badge text-bg-light">Desain Grafis</span>
+                                        <span class="badge text-bg-light">Fotografi</span>
+                                        <span class="badge text-bg-light">Vidiografi</span>
+                                        <span class="badge text-bg-light">simulasi & komunikasi digital</span>
+                                        <span class="badge text-bg-light">Pemrograman Dasar</span>
                                     </div>
                                 </div>
                             </div>
@@ -118,41 +119,27 @@
                 </div>
                 <div class="col-md-6 mt-5 mt-md-0">
                     <div class="row">
-                        <h3 class="mb-3">Pengalaman</h3>
+                        <h3 class="mb-3">Pengalaman Magang</h3>
                         <!-- Contoh: Pengalaman Kerja, Pengalaman Sukarelawan, Magang, Organisasi, dll. -->
 
                         <div class="col-md-12 mb-3">
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
-                                    <span class="badge bg-secondary">2021</span>
-                                    <h5 class="mt-2 mb-0"><b>Online Design Courses</b></h5>
-                                    <p class="text-body-tertiary mb-0">Design Course</p>
+                                    <span class="badge bg-secondary">2020</span>
+                                    <h5 class="mt-2 mb-0"><b>Variant Digital Printing</b></h5>
+                                    <p class="text-body-tertiary mb-0">Magang</p>
                                     <hr class="mt-2 mb-3 text-body-tertiary">
 
                                     <div class="mt-2">
                                         <ul class="mb-0">
-                                            <li>Mendesain Logo Produk</li>
-                                            <li>Membuat Web</li>
+                                            <li>Membuat Desain produk</li>
+                                            <li>Bekerjasama dengan Tim untuk membuat Produk </li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 mb-3">
-                            <div class="card shadow-sm border-0 rounded-4">
-                                <div class="card-body">
-                                    <span class="badge bg-secondary">2023 - Sekarang</span>
-                                    <h5 class="mt-2 mb-0"><b>IPNU-IPPNU</b></h5>
-                                    <p class="text-body-tertiary mb-0">Leader</p>
-                                    <hr class="mt-2 mb-3 text-body-tertiary">
-
-                                    <div class="mt-2">
-                                        <p class="mb-0">Memimpin dan mentoring anggota 
-                                
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
 
                     </div>
 
@@ -170,13 +157,13 @@
                     <!-- Keahlian atau skill yang kamu bisa atau kuasai -->
 
                     <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
-                        Web Development (HTML, CSS, PHP, Laravel)
+                        Adobe (Photosop,premier,Ilustrator)
                     </a>
                     <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
-                        Design UI/UX di Figma,Corel
+                        Design UI di Figma
                     </a>
-                    
-            
+                    <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
+                        corel
                     </a>
                     <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
                         Microsoft Office (Word, Excel, Powerpoint)
@@ -188,16 +175,8 @@
                         <div class="col-md-12 mb-3">
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
-                                    <h6 class="mt-0 mb-0">Workshop Gendsgn</h6>
-                                    <p class="text-body-tertiary mb-0">Design</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-12 mb-3">
-                            <div class="card shadow-sm border-0 rounded-4">
-                                <div class="card-body">
-                                    <h6 class="mt-0 mb-0">Belajar Bootstrap</h6>
-                                    <p class="text-body-tertiary mb-0">Bootstrap</p>
+                                    <h6 class="mt-0 mb-0">Pemrogaman Web Dasar</h6>
+                                    <p class="text-body-tertiary mb-0">Dicoding</p>
                                 </div>
                             </div>
                         </div>
@@ -209,22 +188,20 @@
                     <!-- Ketertarikan terkait industri yang kamu tuju seperti profesi, bidang, atau yang lain -->
 
                     <a class="btn btn-success text-bg-light text-start mb-2 me-1">
-                        Software Development
+                        Fotography
                     </a>
-                    
-                        
-                    
+                    <a class="btn btn-success text-bg-light text-start mb-2 me-1">
+                        Product Design
+                    </a>
                     <a class="btn btn-success text-bg-light text-start mb-2 me-1">
                         UI/UX Design
                     </a>
                     <a class="btn btn-success text-bg-light text-start mb-2 me-1">
-                     Bussiness
+                        Desain Grafis
                     </a>
                     <a class="btn btn-success text-bg-light text-start mb-2 me-1">
-                    Design Grafis
+                        Software Engineer
                     </a>
-                    
-                        
                 </div>
             </div>
         </div>
@@ -261,7 +238,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="text-white mb-0">Copyright &copy; 2024 - <b>Mufti Hashfi Naufal</b> </p>
+                    <p class="text-white mb-0">Copyright &copy; 2024 - <b>Lingkar Chaya C Hima</b> </p>
                 </div>
             </div>
         </div>
@@ -285,16 +262,16 @@
                         <div class="card-body">
                             <h5 class="mb-0">No. HP / Whatsapp</h5>
                             <p class="mb-0">
-                                <b>+6283831067462</b>
+                                <b>+62 851-5610-4841</b>
                             </p>
                         </div>
                     </div>
                     <div class="card bg-light border-primary-subtle mb-3 rounded-4">
                         <div class="card-body">
-                            <h5 class="mb-0">Tiktok</h5>
+                            <h5 class="mb-0">Linkedin</h5>
                             <p class="mb-0">
-                                <a href="https://www.tiktok.com/@naufalrajinibadah?_t=8mV39IloKzH&_r=1" target="_blank">
-                                    linkedin.com/in/<b>
+                                <a href="linkedin.com/in/rahmatrdn/" target="_blank">
+                                    linkedin.com/in/<b>rahmatrdn</b>
                                 </a>
                             </p>
                         </div>
@@ -303,9 +280,7 @@
                         <div class="card-body">
                             <h5 class="mb-0">Email</h5>
                             <p class="mb-0">
-                                <b>muftihashfinaufal78.com</b>
-                            </a>
-
+                                <b>lingkar488@gmail.com</b>
                             </p>
                         </div>
                     </div>
@@ -313,7 +288,7 @@
                         <div class="card-body">
                             <h5 class="mb-0">Instagram</h5>
                             <p class="mb-0">
-                                <b><a href="https://www.instagram.com/mufti_naufal22?igsh=ZnRhd3J4ZGUyZzAy">mufti_naufal</a></b>
+                                <b><a href="https://www.instagram.com/lingkarchaya/">@lingkarchaya</a></b>
                             </p>
                         </div>
                     </div>
